@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "2.7更新内容",
-      "content": "\n本次更新内容：\n1. 新增了几个工具\n2. 修改了公告源等,
+      "content": "\n本次更新内容：\n1. 新增了几个工具\n2. 修改了公告源等",
       "update_time": "2025-11-15",
       "priority": "high",
       "type": "update"
@@ -24,7 +24,7 @@
       "priority": "low",
       "type": "member"
     }
-  ]
+  ],
   "version": "2.0",
   "last_updated": "2025-11-15"
 }
