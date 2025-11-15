@@ -1,0 +1,29 @@
+{
+  "announcements": [
+    {
+      "id": 1,
+      "title": "2.7更新内容",
+      "content": "\n本次更新内容：\n1. 新增公告功能\n2. 新增修改显示密度\n3. 修复已知问题\n",
+      "update_time": "2025-06-26",
+      "priority": "high",
+      "type": "update"
+    },
+    {
+      "id": 2,
+      "title": "广告招租",
+      "content": "广告位招租，价格可谈，nybox有500+用户，广告将同步至官网和群公告。",
+      "update_time": "2025-06-26",
+      "priority": "normal",
+      "type": "feature"
+    },
+    {
+      "id": 3,
+      "title": "关于捐赠",
+      "content": "感谢你捐赠并激活了nybox\n目前激活专属功能：\n✓ 九宫格等显示模式\n✓ 去除广告（虽然还没有广告）\n翻译工具",
+      "update_time": "2025-11-15",
+      "priority": "low",
+      "type": "member"
+    }
+  "version": "2.0",
+  "last_updated": "2025-06-26"
+}
