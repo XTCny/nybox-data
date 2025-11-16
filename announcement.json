@@ -3,8 +3,8 @@
     {
       "id": 1,
       "title": "2.7更新内容",
-      "content": "\n本次更新内容：\n1. 新增了几个工具\n2. 修改了公告源等",
-      "update_time": "2025-11-15",
+      "content": "\n本次更新内容：\n1.加了签名校验\n2.增加了kimiai,有道翻译，每日一言",
+      "update_time": "2025-11-16",
       "priority": "high",
       "type": "update"
     },
@@ -19,12 +19,12 @@
     {
       "id": 3,
       "title": "关于捐赠",
-      "content": "感谢你捐赠并激活了nybox\n目前激活专属功能：\n✓ 九宫格等显示模式\n✓ 去除广告（虽然还没有广告）\n翻译工具",
+      "content": "感谢你捐赠并激活了nybox\n目前激活专属功能：\n✓ 九宫格等显示模式\n✓ 去除广告（虽然还没有广告）\n翻译和kimiai工具",
       "update_time": "2025-11-13",
       "priority": "low",
       "type": "member"
     }
   ],
   "version": "2.0",
-  "last_updated": "2025-11-15"
+  "last_updated": "2025-11-16"
 }
