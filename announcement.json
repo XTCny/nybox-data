@@ -2,9 +2,9 @@
   "announcements": [
     {
       "id": 1,
-      "title": "2.7更新内容",
-      "content": "\n本次更新内容：\n1.加了签名校验\n2.增加了kimiai,有道翻译，每日一言",
-      "update_time": "2025-11-16",
+      "title": "2.8更新内容",
+      "content": "\n1.增加了无障碍管理器\n2.把ai改成了chatGPT\n3.修复了检查更新，增加了进度条等\n4.调整了界面顺序\n5.修改了部分界面",
+      "update_time": "2025-12-14",
       "priority": "high",
       "type": "update"
     },
